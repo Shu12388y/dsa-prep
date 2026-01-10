@@ -1,7 +1,9 @@
 
-
 # par = "()()))"
 par = ")lee()(tcode(s)"
+
+
+
 
 
 def validParam(s:str)->int:
