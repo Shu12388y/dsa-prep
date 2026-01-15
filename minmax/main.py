@@ -1,22 +1,16 @@
 """
-Minmax array
-
+MiniMax & Maximin
 """
 
-class Array:
-    val = []
-    def __init__(self,v:list):
-        self.val = v 
-    
-    def sortit(self):
-        return sorted(self.val)
+from array_mod import Arrays
+
+
+arr = Arrays([1,2,3,4]).getlist()
+print(arr)
+
+
+""" 
 
 
 
-lt = Array([12,5,31,3,2,0])
-print(lt.sortit())
-    
-    
-
-        
-
+"""
