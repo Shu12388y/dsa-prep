@@ -11,6 +11,9 @@ State - what are the parameter that our problem depend on
 
 f(n) -> Return nth fib. no.
 
+
+Transition - 
+
 '''
 
 
@@ -23,3 +26,13 @@ def printN(n):
 
 
 printN(5)
+
+arr = [1,2]
+
+
+print(arr.count(4))
+
+
+s = ""
+
+s += "34"
